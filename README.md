@@ -1,7 +1,7 @@
 # Thanks for stopping by!
 I work on the front-end, but I'm steadily expanding into back-end development to become a full-stack engineer. With a degree in Information Systems and six years of programming experience, I enjoy creating clean, interactive interfaces that offer a smooth user experience. Outside of coding, I’m into animation, comics, and support Chelsea 🦁🔵. Looking ahead, I’m excited to explore the fields of robotics and AI.
 
-### Connections:
+### Where else you can find me:
 
 [<img align="left" alt="Oviesa | LinkedIn" width="36px" src="https://www.svgrepo.com/show/469190/linkedin.svg" />][linkedin]
 [<img align="left" alt="Oviesa | Website" width="36px" src="https://www.svgrepo.com/show/513304/globe-2.svg" />][website]
