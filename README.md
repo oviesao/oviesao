@@ -1,7 +1,7 @@
 # Thanks for stopping by!
 I work on the front-end, but I'm steadily expanding into back-end development to become a full-stack engineer. With a degree in Information Systems and six years of programming experience, I enjoy creating clean, interactive interfaces that offer a smooth user experience. Outside of coding, I’m into animation, comics, and support Chelsea 🦁🔵. Looking ahead, I’m excited to explore the fields of robotics and AI.
 
-### Where else you can find me:
+### Where you can find me:
 
 [<img align="left" alt="Oviesa | LinkedIn" width="36px" src="https://www.svgrepo.com/show/469190/linkedin.svg" />][linkedin]
 [<img align="left" alt="Oviesa | Website" width="36px" src="https://www.svgrepo.com/show/513304/globe-2.svg" />][website]
@@ -19,7 +19,7 @@ I work on the front-end, but I'm steadily expanding into back-end development to
 
 ## My Languages and Tools:
 
-<img align="left" alt="Github" width="36px" src="https://www.svgrepo.com/show/475654/github-color.svg" />
+
 <img align="left" alt="HTML" width="36px" src="https://www.svgrepo.com/show/452228/html-5.svg" />
 <img align="left" alt="CSS" width="36px" src="https://www.svgrepo.com/show/452185/css-3.svg" />
 <img align="left" alt="JavaScript" width="36px" src="https://www.svgrepo.com/show/349419/javascript.svg" />
@@ -49,7 +49,7 @@ I work on the front-end, but I'm steadily expanding into back-end development to
 
   <br /><br />
 
-  ### ⭐ Top Languages
+  ### 🥇 Top Languages
   <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&hide_border=true&theme=github_dark&langs_count=8&hide=html,css" />
 
 </details>
