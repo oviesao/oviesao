@@ -17,7 +17,7 @@ I work on the front-end, but I'm steadily expanding into back-end development to
 <br>
 <br>
 
-## Languages and Tools I'm versed in:
+## My Languages and Tools:
 
 <img align="left" alt="Github" width="36px" src="https://www.svgrepo.com/show/475654/github-color.svg" />
 <img align="left" alt="HTML" width="36px" src="https://www.svgrepo.com/show/452228/html-5.svg" />
