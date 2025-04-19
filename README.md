@@ -1,6 +1,6 @@
 # Thanks for stopping by!
 
-I focus on front-end development, whilst steadily venturing into the back-end to become full-stack. With a degree in Information Systems and six years of programming experience, I enjoy building clean, interactive interfaces that feel smooth and intuitive. Outside the code, I’m into animation, comics, and support Chelsea 🦁🔵. I’m also looking forward to diving deeper into robotics and AI.
+I focus on front-end development, whilst steadily venturing into the back-end to become full-stack. With a degree in Information Systems and six years of programming experience, I enjoy building clean, interactive interfaces that feel smooth and intuitive. Outside life of coding, I’m into animation, comics, and support Chelsea 🦁🔵. I’m also looking forward to diving deeper into robotics and AI.
 
 
 ---
