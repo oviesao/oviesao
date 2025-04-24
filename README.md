@@ -61,7 +61,7 @@ I focus on front-end development, whilst steadily venturing into the back-end to
   ### 📈 Overall Stats
   <img align="center" alt="Oviesa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oviesao&show_icons=true&hide=issues,contribs&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
 
-  <br /><br />
+  <br />
 
   ### 🥇 Top Languages
   <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oviesao&layout=compact&langs_count=8&theme=tokyonight" />
