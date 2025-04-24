@@ -64,6 +64,6 @@ I focus on front-end development, whilst steadily venturing into the back-end to
   <br /><br />
 
   ### 🥇 Top Languages
-  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oviesao&layout=compact&hide_border=true&theme=github_dark&langs_count=8&hide=html,css" />
+  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oviesao&layout=compact&langs_count=8&theme=tokyonight" />
 
 </details>
