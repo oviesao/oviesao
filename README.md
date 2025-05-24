@@ -52,16 +52,16 @@ I focus on front-end development, whilst steadily venturing into the back-end to
 
 ---
 
-## 📊 Check this out 👇🏾
+## 📊 GitHub Stats  
 
-<details>
-  <summary>Click to expand</summary>
-  <br />
+<details>  
+  <summary>Click to expand</summary>  
+  <br />  
 
-  ### 📈 Overall Stats
-  <img align="center" alt="Oviesa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oviesao&show_icons=true&hide=issues,contribs&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
+### 📈 Overall Stats  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oviesao&show_icons=true&hide=issues,contribs&hide_border=true&theme=github_dark&count_private=true&cache_seconds=86400" />  
 
-  <br />
-  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oviesao&layout=compact&langs_count=8&theme=tokyonight" />
+### 🔝 Top Languages  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oviesao&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400" />  
 
-</details>
+</details>  
