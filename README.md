@@ -1,4 +1,4 @@
-# Thanks for stopping by!
+# I’m no magician, but I can make bugs disappear.
 
 I focus on front-end development, whilst steadily venturing into the back-end to become full-stack. With a degree in Information Systems and six years of programming experience, I enjoy building clean, interactive interfaces that feel smooth and intuitive. Coding aside, I’m into animation, comics, and support Chelsea F.C.🦁⚽. I intend on diving into the world of robotics and AI in the foreseeable future.
 
