@@ -9,8 +9,8 @@
 [<img align="left" alt="Oviesa | LinkedIn" width="36px" src="https://www.svgrepo.com/show/469190/linkedin.svg" />][linkedin]
 [<img align="left" alt="Oviesa | Website" width="36px" src="https://www.svgrepo.com/show/513304/globe-2.svg" />][website]
 [<img align="left" alt="Oviesa | Instagram" width="36px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />][instagram]
-[<img align="left" alt="Oviesa | CodePen" width="36px" src="https://www.svgrepo.com/show/509861/codepen.svg" />][codepen]
 [<img align="left" alt="Oviesa | Email" width="36px" src="https://www.svgrepo.com/show/477054/email-download.svg" />][email]
+[<img align="left" alt="Oviesa | CodePen" width="36px" src="https://www.svgrepo.com/show/509861/codepen.svg" />][codepen]
 
 <br><br>
 
