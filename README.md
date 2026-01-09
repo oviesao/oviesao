@@ -1,7 +1,6 @@
 # I’m no magician, but I can make bugs disappear.
 
-I focus on front-end development, whilst steadily venturing into the back-end to become full-stack. With a degree in Information Systems and six years of programming experience, I enjoy building clean, interactive interfaces that feel smooth and intuitive. Coding aside, I’m into animation, comics, and support Chelsea F.C.🦁⚽. I intend on diving into the world of robotics and AI in the foreseeable future.
-
+Six years of programming has taught me that making great software is like making a good comic book, it needs a perfect balance of structure and art. I specialize in sleek front-end design with a growing footprint in the back-end. Outside of the IDE, I’m a gamer, hobbyist artist, and comic book fan that unfortunately supports Chelsea F.C. Looking forward, I’m planning on applying my foundation in tech to the frontier of Robotics and AI."
  
 ---
 
