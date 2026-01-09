@@ -1,6 +1,7 @@
 # I’m no magician, but I can make bugs disappear. 🎩
 
-Eight years of programming have taught me that making great software is like making a good comic book: it needs a perfect balance of structure and art. I specialize in sleek front-end design with a growing footprint in the back-end. Outside of the IDE, I’m a gamer, hobbyist artist, and comic book fan who (unfortunately) supports Chelsea F.C. Looking forward, I’m planning on applying my foundation in tech to the frontier of Robotics and AI. 
+<sub>Eight years of programming have taught me that making great software is like making a good comic book: it needs a perfect balance of structure and art. I specialize in sleek front-end design with a growing footprint in the back-end. Outside of the IDE, I’m a gamer, hobbyist artist, and comic book fan who (unfortunately) supports Chelsea F.C. Looking forward, I’m planning on applying my foundation in tech to the frontier of Robotics and AI.</sub> 
+
 ---
 
 ### Where you can find me:
