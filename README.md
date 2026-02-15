@@ -1,6 +1,24 @@
-# I’m no magician, but I can make bugs disappear. 🎩
+# Hi, I'm Oviesa
+Full Stack Developer | Future USAF Avionics Specialist
 
-<sub>Eight years of programming have taught me that making great software is like making a good comic book: it needs a perfect balance of structure and art. I specialize in sleek front-end design with a growing footprint in the back-end. Outside of the IDE, I’m a gamer, hobbyist artist, and comic book fan who (unfortunately) supports Chelsea F.C. Looking forward, I’m planning on applying my foundation in tech to the frontier of Robotics and AI.</sub> 
+<sub>I am an experienced Full Stack Developer transitioning into Aerospace Robotics. Currently, I am in the USAF DEP for 2A9X4 (Heavy Aircraft Integrated Avionics), where I'll be working on the integrated electronic systems of heavy-lift aircraft.
+
+🎯 Focus & Goals
+Current: Building and scaling Full Stack web applications.
+
+Learning: Deepening my proficiency in ROS 2 and autonomous systems.
+
+Objective: Leveraging my 8 years of software experience and military avionics training to build the future of aerospace robotics.
+
+💻 Tech Stack
+Web: React, Node.js, TypeScript, and SQL/NoSQL.
+
+Robotics: ROS 2, C++, and Python.
+
+Hardware: Soon-to-be USAF Integrated Avionics (2A9X4).
+
+⚽ Beyond the Code
+Gamer, hobbyist artist, and a Chelsea F.C. supporter.</sub> 
 
 ---
 
