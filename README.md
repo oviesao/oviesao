@@ -17,8 +17,7 @@ Robotics: ROS 2, C++, and Python.
 
 Hardware: Soon-to-be USAF Integrated Avionics (2A9X4).
 
-⚽ Beyond the Code
-Gamer, hobbyist artist, and a Chelsea F.C. supporter.</sub> 
+Beyond Code, I'm a gamer, movie addict, and a Chelsea F.C. supporter.</sub> 
 
 ---
 
