@@ -1,7 +1,7 @@
 # Hi, I'm Oviesa
 Full Stack Developer | Future USAF Avionics Specialist
 
-<sub>I am an experienced Full Stack Developer transitioning into Aerospace Robotics. Currently, I am in the USAF DEP for 2A9X4 (Heavy Aircraft Integrated Avionics), where I'll be working on the integrated electronic systems of heavy-lift aircraft.
+I am an experienced Full Stack Developer transitioning into Aerospace Robotics. Currently, I am in the USAF DEP for 2A9X4 (Heavy Aircraft Integrated Avionics), where I'll be working on the integrated electronic systems of heavy-lift aircraft.
 
 🎯 Focus & Goals
 Current: Building and scaling Full Stack web applications.
